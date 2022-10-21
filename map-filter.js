@@ -18,4 +18,6 @@ const num =[3,4,5,6,7,8];
 // }
 //const result = num.map(x=> x*x);
 const result = num.filter(x=>x>5);
+filter // find (not give array)
+// need to know later for each reduce
 console.log(result)
